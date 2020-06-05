@@ -1,0 +1,4 @@
+Total number of lots: 17
+Total start price: 111181996,80
+Total start price of canceled lots: 0,00
+Total: 17
